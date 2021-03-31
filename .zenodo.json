@@ -6,16 +6,4 @@
         }
     ], 
     "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/atmickle/data_deposit_experiment/tree/1", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.4649468", 
-            "relation": "isVersionOf"
-        }
-    ]
 }
