@@ -1,10 +1,4 @@
 {
-    "description": "<p>This is a basic poly line for woods hole</p>", 
-    "license": "other-open", 
-    "title": "atmickle/data_deposit_experiment: First Release", 
-    "version": "1.5", 
-    "upload_type": "software", 
-    "publication_date": "2021-01-31", 
     "creators": [
         {
             "affiliation": "Woods Hole Oceanographic Institution", 
