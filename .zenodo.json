@@ -7,7 +7,15 @@
         {
             "affiliation": "Woods Hole Oceanographic Institution", 
             "name": "Audrey Anne Taylor Mickle"
+            "orcid":"0000-0003-3888-8810"
         }
     ], 
     "access_right": "open"
+    "locations": [
+        {
+            "lat": 41.5242, "lon": -70.6712, 
+            "place": "Woods Hole"
+            "description": "Woods Hole Village"
+        }
+    ]
 }
